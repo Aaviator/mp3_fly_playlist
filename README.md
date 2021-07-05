@@ -1,7 +1,10 @@
 # mp3_fly_playlist
-The simple utility for creation and manage playlists on the Fly mobile phone (not smartphone).
+A simple utility that allows you to create and manage audio playlists for those keypad phones that run Java.
+Playlists are stored in  ```E:\System\Mp3_res\```.
 
-There are schema for binary data in playlist:
+Download: https://github.com/Aaviator/mp3_fly_playlist/releases/tag/1.0
+
+Schema for binary data in playlist:
 ```
 01
 MMIMP3_LIST_VER.01.01.00
@@ -29,4 +32,3 @@ BD 81 02 00 // filesize of a playlist in bytes
 37 01 00 00 // number of songs
 ```
 
-You can found playlists in folder ```E:\System\Mp3_res\```.
