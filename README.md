@@ -2,7 +2,7 @@
 A simple utility that allows you to create and manage audio playlists for those keypad phones that run Java.
 Playlists are stored in  ```E:\System\Mp3_res\```.
 
-Download: https://github.com/Aaviator/mp3_fly_playlist/releases/tag/1.0
+Download: https://github.com/aaviator42/mp3_fly_playlist/releases/tag/1.0
 
 Schema for binary data in playlist:
 ```
